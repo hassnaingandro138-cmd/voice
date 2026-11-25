@@ -1,0 +1,6 @@
+{
+  "name": "Dark Villain Voice Prank Link Generator",
+  "description": "Create cinematic dark villain voice pranks, record audio, transcribe with AI, and generate shareable links.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
